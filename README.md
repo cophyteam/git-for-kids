@@ -14,10 +14,16 @@ No more excuse! 😋
 
 You may also check one of these links
 
--   https://crnl-lab.github.io/cluster-guidelines/git_presentation.html
+-   <https://crnl-lab.github.io/cluster-guidelines/git_presentation.html>
 
--   https://crnl-lab.github.io/cluster-guidelines/help_github.html
+-   <https://crnl-lab.github.io/cluster-guidelines/help_github.html>
 
--   https://agripongit.vincenttunru.com/
+-   <https://agripongit.vincenttunru.com/>
 
--   http://git-school.github.io/visualizing-git/
+-   <http://git-school.github.io/visualizing-git/>
+
+-   [https://www.atlassian.com/git](https://www.atlassian.com/git/glossary#commands) (incredibly complete resource)
+
+Example images displayed from the ./img folder!
+
+![](img/image-blog-what-is-gitflow-diagram.webp)
