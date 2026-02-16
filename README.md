@@ -2,7 +2,7 @@
 
 Basic information to get started with Git for kids and their parents.
 
-Open a command line.
+Open a command line. Be careful.
 
 Type `git clone https://github.com/cophyteam/git-for-kids`
 
