@@ -14,12 +14,13 @@ No more excuse! 😋
 
 You may also check one of these links
 
--   <https://crnl-lab.github.io/cluster-guidelines/git_presentation.html>
+-   https://crnl-lab.github.io/cluster-guidelines/git_presentation.html
 
--   <https://crnl-lab.github.io/cluster-guidelines/help_github.html>
+-   https://crnl-lab.github.io/cluster-guidelines/help_github.html
 
--   <https://agripongit.vincenttunru.com/>
+-   https://agripongit.vincenttunru.com/
 
+<<<<<<< HEAD
 -   <http://git-school.github.io/visualizing-git/>
 
 -   [https://www.atlassian.com/git](https://www.atlassian.com/git/glossary#commands) (incredibly complete resource)
@@ -27,3 +28,6 @@ You may also check one of these links
 Example images displayed from the ./img folder!
 
 ![](img/image-blog-what-is-gitflow-diagram.webp)
+=======
+-   http://git-school.github.io/visualizing-git/
+>>>>>>> parent of 0ef7adf (image)
